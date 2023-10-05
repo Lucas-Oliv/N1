@@ -51,12 +51,12 @@ A equipe de engenheiros de software encarregada deste projeto buscará profissio
 
 | Funcionais | Description |
 | --- | --- |
-| `Sistema de Pedidos Online` | Desenvolver um sistema que permita aos clientes fazer pedidos de pizza online, incluindo seleção de itens do menu, especificações de pedido e informações de pagamento. |
-| `Rastreamento de Localização` | Criar uma funcionalidade que permita rastrear a localização das lojas de pizza Pizza-Express mais próximas do cliente no momento do pedido. |
-| `Gestão de Pedidos` | Desenvolver uma função para gerenciar e processar pedidos, atribuindo-os à loja de pizza mais adequada com base na proximidade. |
-| `Eficiência de Entrega` | Implementar um sistema que otimize as rotas de entrega para garantir entregas rápidas (em 10 a 15 minutos) após o pedido. |
-| `Integração de Pagamento` | Integrar opções de pagamento online para processar pagamentos de pedidos com eficiência. |
-| `Sistema de Notificação` | Incluir um sistema de notificação que informa os clientes sobre o status de seus pedidos e horário estimado de entrega. |
+| Sistema de Pedidos Online | Desenvolver um sistema que permita aos clientes fazer pedidos de pizza online, incluindo seleção de itens do menu, especificações de pedido e informações de pagamento. |
+| Rastreamento de Localização | Criar uma funcionalidade que permita rastrear a localização das lojas de pizza Pizza-Express mais próximas do cliente no momento do pedido. |
+| Gestão de Pedidos | Desenvolver uma função para gerenciar e processar pedidos, atribuindo-os à loja de pizza mais adequada com base na proximidade. |
+| Eficiência de Entrega | Implementar um sistema que otimize as rotas de entrega para garantir entregas rápidas (em 10 a 15 minutos) após o pedido. |
+| Integração de Pagamento | Integrar opções de pagamento online para processar pagamentos de pedidos com eficiência. |
+| Sistema de Notificação | Incluir um sistema de notificação que informa os clientes sobre o status de seus pedidos e horário estimado de entrega. |
 
 # Diagrama de casos de uso
 
