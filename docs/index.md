@@ -68,7 +68,7 @@ A equipe de engenheiros de software encarregada deste projeto buscará profissio
 | Desempenho | Garantir que o sistema possa lidar com o processamento simultâneo de pedidos sem degradação significativa do desempenho.|
 | Disponibilidade | Assegurar que o sistema esteja disponível 24 horas por dia, 7 dias por semana, para atender às necessidades dos clientes.|
 | Integração | Integrar o sistema de software com os processos operacionais das lojas de pizza, garantindo uma operação suave.|
-| Compliance      | Cumprir regulamentos e padrões de segurança de pagamento, caso seja aplicável.|
+| Compliance | Cumprir regulamentos e padrões de segurança de pagamento, caso seja aplicável.|
 
 
 # Diagrama de casos de uso
