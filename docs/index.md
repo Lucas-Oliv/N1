@@ -58,6 +58,19 @@ A equipe de engenheiros de software encarregada deste projeto buscará profissio
 | Integração de Pagamento | Integrar opções de pagamento online para processar pagamentos de pedidos com eficiência. |
 | Sistema de Notificação | Incluir um sistema de notificação que informa os clientes sobre o status de seus pedidos e horário estimado de entrega. |
 
+| Não Funcionais | Description |
+| --- | --- |
+| Tempo de Resposta | Garantir que o sistema tenha tempos de resposta rápidos para permitir um serviço de entrega ágil.|
+| Escalabilidade | Certificar-se de que o sistema seja escalável para lidar com um grande volume de pedidos e lojas. |
+| Segurança | Implementar medidas de segurança robustas para proteger os dados dos clientes e os processos de pagamento.|
+| Confiabilidade | Assegurar que o sistema seja altamente confiável, minimizando interrupções ou falhas. |
+| Usabilidade | Projetar uma interface de usuário intuitiva para clientes e funcionários das lojas, visando facilitar o processo de pedidos e entregas.|
+| Desempenho | Garantir que o sistema possa lidar com o processamento simultâneo de pedidos sem degradação significativa do desempenho.|
+| Disponibilidade | Assegurar que o sistema esteja disponível 24 horas por dia, 7 dias por semana, para atender às necessidades dos clientes.|
+| Integração | Integrar o sistema de software com os processos operacionais das lojas de pizza, garantindo uma operação suave.|
+| Compliance      | Cumprir regulamentos e padrões de segurança de pagamento, caso seja aplicável.|
+
+
 # Diagrama de casos de uso
 
 *&lt;Diagrama para visualizar o comportamento dos atores&gt;*
