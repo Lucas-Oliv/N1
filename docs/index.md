@@ -33,7 +33,19 @@
 # Descrição do projeto
 
 
-*&lt;Desenvolvimento de um sistema de entrega de pizzas altamente eficiente, visando reduzir os tempos de entrega para competir com concorrentes, através da criação de uma rede de lojas especializadas em pedidos e entregas ágeis.&gt;*
+*&lt;
+O "Projeto DeliveryX" representa uma iniciativa de engenharia de software com foco na aprimoração do serviço de entrega da Pizza-Express, uma renomada cadeia de 40 lojas de fast-food e entrega domiciliar. Em resposta ao contexto competitivo atual e às crescentes demandas dos consumidores por entregas mais céleres, este projeto busca desenvolver e implementar um sistema de software de vanguarda. O propósito central é possibilitar à Pizza-Express efetuar a entrega de pizzas aos seus clientes no prazo de 30 minutos ou menos, solidificando assim sua posição de liderança na indústria de fast-food.
+
+A abrangência deste projeto envolve a concepção e implementação de um sistema de pedidos online, permitindo aos clientes efetuar pedidos por meio de uma plataforma digital, com opções de personalização dos itens do menu e processamento seguro de pagamentos. Além disso, o projeto contempla a integração de um sistema de rastreamento em tempo real, que viabiliza a localização das lojas de pizza Pizza-Express mais próximas dos clientes no momento da realização do pedido.
+
+O gerenciamento eficaz dos pedidos é uma peça fundamental deste projeto, com uma abordagem inteligente para a alocação de pedidos às lojas de maneira a otimizar a eficiência das entregas. Uma roteirização inteligente é empregada para determinar as rotas mais eficientes e reduzir o tempo de entrega, almejando alcançar um prazo de 10 a 15 minutos após o pedido.
+
+No que concerne à segurança e confiabilidade, serão implementadas medidas rigorosas para garantir a proteção dos dados dos clientes e a continuidade das operações de entrega. Além disso, a usabilidade do sistema será aprimorada por meio de uma interface de usuário intuitiva e de alto desempenho.
+
+O Projeto DeliveryX também se compromete com a disponibilidade contínua do sistema, assegurando sua operação 24 horas por dia, 7 dias por semana. Adicionalmente, o projeto visa à integração harmônica com os processos operacionais da Pizza-Express e à aderência aos requisitos regulatórios pertinentes.
+
+A equipe de engenheiros de software encarregada deste projeto buscará profissionalismo e colaboração mútua para cumprir com êxito o objetivo de elevar a Pizza-Express ao posto de líder incontestável na entrega de pizzas rápidas e eficientes por meio do "Projeto DeliveryX".
+&gt;*
 
 # Análise de requisitos funcionais e não-funcionais
 *&lt;Descrição dos requisitos&gt;*
