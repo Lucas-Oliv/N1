@@ -1,9 +1,9 @@
 <h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
 
 
-# Projeto: *<Projeto DeliveryX>*
+# Projeto: Projeto DeliveryX
 
-# Grupo: *<Jett>*
+# Grupo: Jett
 
 # Descrição
 
