@@ -48,7 +48,10 @@ A equipe de engenheiros de software encarregada deste projeto buscará profissio
 &gt;*
 
 # Análise de requisitos funcionais e não-funcionais
-*&lt;Descrição dos requisitos&gt;*
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
 
 # Diagrama de casos de uso
 
