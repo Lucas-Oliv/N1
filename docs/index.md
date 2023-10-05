@@ -3,7 +3,7 @@
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+*&lt;Projeto DeliveryX&gt;*
 </center></font>
 
 >*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
@@ -27,19 +27,13 @@
 
 # Autores
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
+* Lucas de Oliveira Bertelini
 
 
 # Descrição do projeto
 
-*&lt;Introdução do projeto&gt;*
+
+*&lt;Desenvolvimento de um sistema de entrega de pizzas altamente eficiente, visando reduzir os tempos de entrega para competir com concorrentes, através da criação de uma rede de lojas especializadas em pedidos e entregas ágeis.&gt;*
 
 # Análise de requisitos funcionais e não-funcionais
 *&lt;Descrição dos requisitos&gt;*
