@@ -73,8 +73,9 @@ A equipe de engenheiros de software encarregada deste projeto buscará profissio
 
 # Diagrama de casos de uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
-
+*&lt;
+![D1 drawio](https://github.com/Lucas-Oliv/N1/assets/71336527/43107eec-85ba-4f8f-9636-6979507ba86e)
+&gt;*
 # Descrição dos casos de uso
 
 *&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
