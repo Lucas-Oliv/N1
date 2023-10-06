@@ -92,7 +92,7 @@ A equipe de engenheiros de software encarregada deste projeto buscará profissio
 |                     | 1.7 O Cliente confirma o pedido.|
 |                     | 1.8 O sistema registra o pedido e processa o pagamento de forma segura.|
 |                     | 1.9 O sistema atribui o pedido à loja de pizza mais próxima.|
-|                     | 1.10O Funcionário da Pizzaria recebe o pedido e o inicia.|
+|                     | 1.10 O Funcionário da Pizzaria recebe o pedido e o inicia.|
 |                     | 1.11 O Funcionário da Pizzaria prepara os itens do pedido, embala-os e encaminha-os para entrega.|
 |                     | 1.12 O Funcionário da Pizzaria entrega os itens ao Cliente.|
 |---------------------|---------------------------------------------------|
@@ -103,14 +103,16 @@ A equipe de engenheiros de software encarregada deste projeto buscará profissio
 | 7a. Cancelar Pedido | O Cliente pode cancelar o pedido a qualquer momento antes da confirmação. |
 | 8a. Falha no Pagamento | Se ocorrer uma falha no pagamento, o sistema notificará o Cliente e fornecerá opções de pagamento alternativas. |
 
-| Caso de Uso         | Rastrear Entrega                                   |
-|---------------------|---------------------------------------------------|
-| Descrição           | Permite que os clientes rastreiem suas entregas em tempo real. |
-| Ator Principal      | Cliente                                           |
+| Caso de Uso         | Rastrear Entrega                                  |
+|---------------------|--------------------------------------------------|
+| Descrição           | Permite que os clientes rastreiem o status e a localização de suas entregas em tempo real. |
+| Ator Principal      | Cliente                                          |
 | Fluxo Principal     | 1. O Cliente inicia o aplicativo ou acessa o site da Pizza-Express. |
-|                     | 2. O Cliente acessa a seção "Rastrear Entrega".   |
-|                     | 3. O sistema exibe o status atual do pedido e a localização do entregador. |
-| Requisitos Não Funcionais | Tempo Real de Atualização, Integração de Localização, Interface Intuitiva |
+|                     | 2. O Cliente acessa a seção "Rastrear Entrega".  |
+|                     | 3. O sistema exibe o status atual do pedido (por exemplo, "Preparando", "Em Rota"). |
+|                     | 4. O sistema exibe a localização atual do entregador no mapa. |
+
+
 
 &gt;*
 
