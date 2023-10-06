@@ -118,7 +118,8 @@ A equipe de engenheiros de software encarregada deste projeto buscará profissio
 
 # Diagrama de sequencia
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+*&lt;![D1 1 drawio](https://github.com/Lucas-Oliv/N1/assets/71336527/b27216fc-9245-4ed1-985d-449b82a4a3bd)&gt;*
+
 
 # Diagrama de classes
 
