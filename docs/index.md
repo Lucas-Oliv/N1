@@ -78,7 +78,41 @@ A equipe de engenheiros de software encarregada deste projeto buscará profissio
 &gt;*
 # Descrição dos casos de uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+*&lt;
+| Caso de Uso         | Realizar Pedido                                    |
+|---------------------|---------------------------------------------------|
+| Descrição           | Permite que os clientes façam pedidos de pizza.   |
+| Ator Principal      | Cliente                                           |
+| Fluxo Principal     | 1.1 O Cliente inicia o aplicativo ou acessa o site da Pizza-Express.|
+|                     | 1.2 O Cliente navega pelo menu de itens disponíveis.|
+|                     | 1.3 O Cliente seleciona itens do menu (pizzas, bebidas, acompanhamentos, etc.).|
+|                     | 1.4 O Cliente personaliza os itens selecionados, se necessário (por exemplo, escolhendo ingredientes adicionais para uma pizza).|
+|                     | 1.5 O Cliente adiciona os itens ao carrinho de compras.|
+|                     | 1.6 O Cliente revisa o carrinho e faz alterações, se necessário.|
+|                     | 1.7 O Cliente confirma o pedido.|
+|                     | 1.8 O sistema registra o pedido e processa o pagamento de forma segura.|
+|                     | 1.9 O sistema atribui o pedido à loja de pizza mais próxima.|
+|                     | 1.10O Funcionário da Pizzaria recebe o pedido e o inicia.|
+|                     | 1.11 O Funcionário da Pizzaria prepara os itens do pedido, embala-os e encaminha-os para entrega.|
+|                     | 1.12 O Funcionário da Pizzaria entrega os itens ao Cliente.|
+|---------------------|---------------------------------------------------|
+| Fluxo Alternativos  |                                                   |
+| 3a. Pedido Personalizado | Se o Cliente desejar, ele pode criar uma pizza personalizada, especificando os ingredientes desejados. |
+| 3b. Pedido em Grupo | O Cliente pode fazer um pedido em nome de um grupo, especificando várias pizzas e bebidas. |
+| 3c. Pedido Especial | O Cliente pode incluir instruções especiais no pedido, como "sem queijo" ou "molho extra" |
+| 7a. Cancelar Pedido | O Cliente pode cancelar o pedido a qualquer momento antes da confirmação. |
+| 8a. Falha no Pagamento | Se ocorrer uma falha no pagamento, o sistema notificará o Cliente e fornecerá opções de pagamento alternativas. |
+
+| Caso de Uso         | Rastrear Entrega                                   |
+|---------------------|---------------------------------------------------|
+| Descrição           | Permite que os clientes rastreiem suas entregas em tempo real. |
+| Ator Principal      | Cliente                                           |
+| Fluxo Principal     | 1. O Cliente inicia o aplicativo ou acessa o site da Pizza-Express. |
+|                     | 2. O Cliente acessa a seção "Rastrear Entrega".   |
+|                     | 3. O sistema exibe o status atual do pedido e a localização do entregador. |
+| Requisitos Não Funcionais | Tempo Real de Atualização, Integração de Localização, Interface Intuitiva |
+
+&gt;*
 
 # Diagrama de sequencia
 
