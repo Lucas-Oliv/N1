@@ -132,7 +132,42 @@ A equipe de engenheiros de software encarregada deste projeto buscará profissio
 
 # Decisões de arquitetura
 
-*&lt;Descrever a infraestrutura escolhida para arquitetura do projeto&gt;*
+*&lt;Arquitetura de Microserviços:
+
+Optamos por uma arquitetura de microserviços para promover modularidade e escalabilidade. Essa abordagem divide o sistema em componentes independentes, facilitando o desenvolvimento e a manutenção.
+Banco de Dados Distribuído:
+
+Escolhemos um banco de dados distribuído para garantir alta disponibilidade e desempenho, especialmente em situações de carga elevada. Isso permite o armazenamento eficiente de dados críticos, como informações de clientes e pedidos.
+Arquitetura de Camadas:
+
+Adotamos uma arquitetura de camadas para organizar o sistema de maneira clara, separando a interface do usuário, a lógica de negócios e os dados. Isso simplifica a manutenção e promove uma estrutura coesa.
+API RESTful:
+
+Implementamos uma arquitetura baseada em APIs RESTful para facilitar a comunicação entre os diferentes serviços do sistema. Isso promove a interoperabilidade e simplifica integrações com aplicativos externos.
+Segurança (OAuth, HTTPS):
+
+Para garantir a segurança dos dados e transações, adotamos protocolos como OAuth para autenticação e autorização, junto com o uso do HTTPS para comunicação segura entre os componentes do sistema.
+Mensageria Assíncrona (Kafka, RabbitMQ):
+
+A introdução de sistemas de mensageria assíncrona, como Kafka ou RabbitMQ, fortalece a resiliência do sistema, permitindo o processamento em segundo plano e melhorando a eficiência operacional.
+Cache (Redis, Memcached):
+
+Implementamos estratégias de caching utilizando ferramentas como Redis ou Memcached para otimizar o desempenho do sistema. Isso reduz a carga no banco de dados, acelerando o acesso a dados frequentemente requisitados.
+Contêineres e Orquestração (Docker, Kubernetes):
+
+Utilizamos contêineres, como Docker, e orquestração, por meio de Kubernetes, para simplificar a implantação consistente e a escalabilidade dos serviços em diferentes ambientes, garantindo eficiência operacional.
+Monitoramento e Logs (Prometheus, ELK Stack):
+
+Implementamos ferramentas de monitoramento, como Prometheus, e registro, como ELK Stack, para rastrear o desempenho do sistema, identificar problemas e assegurar uma operação eficiente.
+Testes Automatizados (JUnit, Selenium):
+
+A integração de testes automatizados, incluindo testes de unidade, integração e aceitação do usuário, no ciclo de desenvolvimento visa garantir a qualidade do código e facilitar atualizações contínuas.
+Escalabilidade Horizontal:
+
+Projetamos o sistema para permitir a escalabilidade horizontal, adicionando instâncias de serviços conforme necessário. Isso assegura a capacidade de lidar com aumentos de carga de maneira eficiente.
+Usabilidade da Interface do Usuário:
+
+Priorizamos uma interface de usuário intuitiva e amigável para melhorar a experiência do cliente ao fazer pedidos e rastrear entregas, contribuindo para a satisfação do usuário.&gt;*
 
 # Diagrama de implantação
 
