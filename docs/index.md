@@ -127,7 +127,8 @@ A equipe de engenheiros de software encarregada deste projeto buscará profissio
 
 # Diagrama de Componentes
 
-*&lt;Diagrama para exibir a relação estrutural dos componentes de um sistema de software
+*&lt;![Screenshot_1](https://github.com/Lucas-Oliv/N1/assets/71336527/37fc102e-ed93-4b33-83d7-baff4661bad6)&lt;*
+
 
 # Decisões de arquitetura
 
