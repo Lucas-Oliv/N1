@@ -123,7 +123,7 @@ A equipe de engenheiros de software encarregada deste projeto buscará profissio
 
 # Diagrama de classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+*&lt;![Screenshot_3](https://github.com/Lucas-Oliv/N1/assets/71336527/284ff41d-2695-455e-8825-2cdea7817e56)&gt;*
 
 # Diagrama de Componentes
 
