@@ -171,7 +171,7 @@ Priorizamos uma interface de usuário intuitiva e amigável para melhorar a expe
 
 # Diagrama de implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+*&lt;![Screenshot_2](https://github.com/Lucas-Oliv/N1/assets/71336527/7507bde8-851c-463b-8962-0cd75f9e14ef)&gt;*
 
 # Referências
 
